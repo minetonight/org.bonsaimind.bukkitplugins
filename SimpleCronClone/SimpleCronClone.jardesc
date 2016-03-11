@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/aleks/Development/Java/Bukkit/org.bonsaimind.bukkitplugins/SimpleCronCLone-mc1.9.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/SimpleCronClone/SimpleCronClone.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/SimpleCronClone/MANIFEST.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=SimpleCronClone/src"/>
+        <folder path="/SimpleCronClone/lib"/>
+    </selectedElements>
+</jardesc>
